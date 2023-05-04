@@ -21,5 +21,5 @@ footer_entries:
     url: feed.xml
 
 misc_entries:
-  - title: Project Zero: A deep dive into an NSO zero click
+  - title: Project Zero - A deep dive into an NSO zero click
     url: https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
