@@ -1,0 +1,37 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: writeups
+    url: writeups
+
+  - title: reading list
+    url: reading
+
+project_entries:
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
+
+footer_entries:
+  - title: twitter
+    url: https://twitter.com/thepotatinator
+
+  - title: github
+    url: https://github.com/mysterypotatoguy
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+  - title: Project Zero - A deep dive into an NSO zero click
+    url: https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+
+  - title: Reverse-engineering TikTok's VM obfuscation
+    url: https://nullpt.rs/reverse-engineering-tiktok-vm-1
+
+  - title: HTTP/2 - The sequel is always worse
+    url: https://portswigger.net/research/http2
+
+  - title: A More Complete Exploit for Fortinet CVE-2022-42475
+    url: https://bishopfox.com/blog/exploit-cve-2022-42475
