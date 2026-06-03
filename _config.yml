@@ -2,7 +2,7 @@ title: Mysterypotatoguy
 author: Mysterypotatoguy
 url: https://mysterypotatoguy.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hi! My name is Mysterypotatoguy, I am a programmer, hacker, and former exec member of LUHack.
+  Hi! My name is Alex, I am a hacker, programmer, and former exec member of LUHack.
     This site contains some of my writeups for CTF challenges I've completed, as well as a list of the interesting things I've read!
 
 permalink: /:categories/:slug

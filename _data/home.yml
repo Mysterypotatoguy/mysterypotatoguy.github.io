@@ -24,6 +24,30 @@ footer_entries:
     url: feed.xml
 
 misc_entries:
+  - title: The State of Art in Red Team is whatever you want to believe
+    url: https://x-c3ll.github.io/posts/Rant-Red-Team/
+    
+  - title: pwning asus driverhub, msi center, acer control centre and razer synapse 4
+    url: https://sensepost.com/blog/2025/pwning-asus-driverhub-msi-center-acer-control-centre-and-razer-synapse-4/
+    
+  - title: Attacking an EDR - Part 1
+    url: https://her0ness.github.io/2023-08-03-c2-Attacking-an-EDR-Part-1/
+    
+  - title: RemoteMonologue - Weaponizing DCOM for NTLM authentication coercions
+    url: https://www.ibm.com/think/x-force/remotemonologue-weaponizing-dcom-ntlm-authentication-coercions
+    
+  - title: The Day the telnet Died
+    url: https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/
+    
+  - title: Defeating KASLR by doing Nothing at All
+    url: https://projectzero.google/2025/11/defeating-kaslr-by-doing-nothing-at-all.html
+    
+  - title: How Kernel Anti-Cheats Work - A Deep Dive into Modern Game Protection
+    url: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/
+    
+  - title: How anti-cheats detect system emulation
+    url: https://secret.club/2020/04/13/how-anti-cheats-detect-system-emulation.html
+    
   - title: Project Zero - A deep dive into an NSO zero click
     url: https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
 
